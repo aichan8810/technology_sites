@@ -1,0 +1,31 @@
+header{
+  height: 120px;
+  background-color: #333;
+}
+main{
+  padding-top: 100px;
+}
+.box{
+  width: 70%;
+  height: 500px;
+  background-color: rgb(29, 29, 29);
+  margin: 0 auto 50px auto;
+  position: relative;
+}
+h1{
+  color: white;
+  padding: 70px;
+}
+.button{
+  width: 300px;
+  height: 100px;
+  background-color: white;
+  display: inline-block;
+  font-size: 23px;
+  text-align: center;
+  line-height: 100px;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+
+}
